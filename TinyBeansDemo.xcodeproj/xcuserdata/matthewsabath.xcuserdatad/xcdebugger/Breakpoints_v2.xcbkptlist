@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5EC5ADE1-061F-40EA-9A37-B1E3B44181AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyBeansDemo/Model/Movie.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865 - cb807b4a2010318f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyBeansDemo.Movie.init(from: Swift.Decoder) throws -&gt; TinyBeansDemo.Movie"
+                  moduleName = "TinyBeansDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsabath/Desktop/job-prep/Interviews/2024/TinyBeans/TinyBeansDemo/TinyBeansDemo/Model/Movie.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+               <Location
+                  uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865 - cb807b4a20103e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyBeansDemo.Movie.init(from: Swift.Decoder) throws -&gt; TinyBeansDemo.Movie"
+                  moduleName = "TinyBeansDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsabath/Desktop/job-prep/Interviews/2024/TinyBeans/TinyBeansDemo/TinyBeansDemo/Model/Movie.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1200">
+               </Location>
+               <Location
+                  uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865 - cb807b4a20103e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyBeansDemo.Movie.init(from: Swift.Decoder) throws -&gt; TinyBeansDemo.Movie"
+                  moduleName = "TinyBeansDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsabath/Desktop/job-prep/Interviews/2024/TinyBeans/TinyBeansDemo/TinyBeansDemo/Model/Movie.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865 - cb807b4a20103e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyBeansDemo.Movie.init(from: Swift.Decoder) throws -&gt; TinyBeansDemo.Movie"
+                  moduleName = "TinyBeansDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsabath/Desktop/job-prep/Interviews/2024/TinyBeans/TinyBeansDemo/TinyBeansDemo/Model/Movie.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "B3F7E88D-161C-4CC9-A27C-C91CBF2A5865 - cb807b4a20103e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinyBeansDemo.Movie.init(from: Swift.Decoder) throws -&gt; TinyBeansDemo.Movie"
+                  moduleName = "TinyBeansDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthewsabath/Desktop/job-prep/Interviews/2024/TinyBeans/TinyBeansDemo/TinyBeansDemo/Model/Movie.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "964">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD3F5486-6F32-4A59-B665-E2C02F72A8C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyBeansDemo/Model/Movie.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A94FD34B-5240-4C31-ABD1-72B114662BF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyBeansDemo/List/PopularMovieCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "updateWithImage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2756C36-9C74-4ED0-ACCC-FE1A7D60A372"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinyBeansDemo/List/PopularMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "bindViewModelPublishers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
